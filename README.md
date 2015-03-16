@@ -1,4 +1,6 @@
 # hello-world
 first github
 
-THis is my edit to the read me file.
+This is my edit to the read me file.
+
+Don’t look now - here’s edit #2.
